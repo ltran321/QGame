@@ -1,0 +1,12 @@
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\bin\Debug\LTranQGame.exe.config
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\bin\Debug\LTranQGame.exe
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\bin\Debug\LTranQGame.pdb
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.csproj.AssemblyReference.cache
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.ControlPanelForm.resources
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.MazeDesignerForm.resources
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.Properties.Resources.resources
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.csproj.GenerateResource.cache
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.csproj.CoreCompileInputs.cache
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.exe
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.pdb
+C:\Users\lina_\Documents\Conestoga\Semester 3\Game Prog Data Structures\Assignment\LTranQGame\LTranQGame\obj\Debug\LTranQGame.PlayForm.resources
